@@ -14,6 +14,5 @@ codex update
 [codex 실행]
 codex
 
-
 [codex 삭제]
-npm uninstall -g @openai/codex
+npm uninstall -g @openai/codex/
