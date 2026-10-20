@@ -4,4 +4,7 @@
   /* 높이 */
   height: 42px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
