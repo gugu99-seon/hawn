@@ -34,3 +34,5 @@
 - margin : 여백
 - html과 css 연결할 때는 class 제목이 틀리지 않게 한다.
 
+
+

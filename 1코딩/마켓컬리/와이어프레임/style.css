@@ -70,6 +70,16 @@ ul,li{
   padding: 0;
   list-style: none;
 }
+h1, h2, h3, h4, h5, h6, p {
+  font-size: inherit; font-weight: normal;
+  margin: auto;
+}
+button {
+  border: 0;
+  margin: 0;  padding: 0;
+  color: inherit;
+  background: none;
+}
 
 /* component */
 .con {
@@ -153,11 +163,101 @@ color: #333;
 }
 .actions {
   width: 250px;
-  display: flex;
+  display: flex; gap: 40px;
   justify-content: end;
 }
-.icon-group { 
-  width: 148px;
-  align-items: center;
-  gap: 20px;
+
+#actions .location,
+#actions .favorite,
+#actions .shopping {
+  font-size: 28px;
+  cursor: pointer;
+}
+/* .location, .favorite, .shopping
+hover : 마우스 올리면 아이콘 색상 변경 */
+#actions .location:hover,
+#actions .favorite:hover,
+#actions .shopping:hover {
+  color: #5F0080;
+}
+.banner {
+  height: 370px;
+  background-color: gray;
+}
+.banner img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+}
+.products {
+  padding-top: 40px; padding-bottom: 40px;
+  border: 1px  solid red;
+}
+.products-con {
+  flex-direction: column;
+}
+.product-head {
+  border: 1px solid orange;
+  text-align: center;
+}
+.product-title {
+  font-size: 28px; font-weight: 500;
+  color: #333;
+  padding-bottom: 8px;
+}
+.product-desc {
+  font-size: 16px;
+  color: #999;
+}
+.product-list {
+  border: 1px solid orange;
+  padding-top: 23px;
+  display: flex;
+  gap: 18px;
+}
+
+.product-card {
+  /* background-color: gray; */
+  flex-grow: 1; flex-basis: 0;
+}
+.product-image  {
+  border-radius: 4px;
+  overflow: hidden;
+}
+.product-image img{
+  width: 100%;
+}
+
+.product-add {
+  padding-top: 6px;
+  padding-bottom: 8px;
+}
+.product-add .shopping {
+  font-size: 20px;
+}
+.add-btn {
+  display: flex;
+  align-items: center; justify-content: center;
+  font-size: 16px; color: #222;
+  border: 1px solid #DFE4EB ;
+  height: 36px; width: 100%;
+  border-radius: 4px;
+}
+
+.product-name {
+  color: #333;
+  font-size: 16px;
+}
+.product-old-price{
+  color: #BCC4CC;
+  font-size: 14px; 
+  padding-top: 8px; padding-bottom: 7px;
+}
+.discount-rate {
+  color: #FA622F;
+  font-size: 16px; font-weight: 700;
+  padding-right: 8px;
+}
+.sale-price{
+  color: #222;
+  font-size: 16px; font-weight: 700;
 }
