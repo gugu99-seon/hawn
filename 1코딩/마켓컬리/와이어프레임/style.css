@@ -115,11 +115,9 @@ button {
 }
 
 .con>nav>ul {
-display: flex;
-gap: 12px;
-font-size: 12px;
-font-weight: 400;
-color: #333;
+  display: flex; gap: 12px;
+  font-size: 12px; font-weight: 400;
+  color: #333;
 }
 
 .signup-link {
