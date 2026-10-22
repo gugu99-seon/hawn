@@ -60,7 +60,6 @@
     font-weight: 900;
     font-display: swap;
 }
-
 .body {
   font-family: 'Pretendard', sans-serif;
 }
@@ -72,29 +71,44 @@
     width: 1150px;
     border: 1px solid orange;
     margin-left: auto; margin-right: auto;
+    display: flex; align-items: center;
 }
-.util-menu-con {
-    justify-content: space-around;
-}
-
-.util-menu-con > nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.util-menu-list {
     gap: 16px;
 }
-
-.util-menu-con > nav > ul {
+.util-menu-con {
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 400;
+    color: #666;
+}
+.util-menu-right {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.util-menu-quick{
     display: flex;
     align-items: center;
     gap: 16px;
     margin: 0;
     padding: 0;
     list-style: none;
-    font-size: 12px; font-weight: 400;
-    color: #666;
 }
-
-.li {
+.util-menu-lang ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.util-menu-con > nav {
     display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+.util-menu-con > nav > ul {
+    display: flex;
+    gap: 16px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
