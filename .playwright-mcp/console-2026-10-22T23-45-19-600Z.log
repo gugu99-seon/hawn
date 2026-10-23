@@ -1,0 +1,4 @@
+[   11372ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0
+[   14766ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0
+[   14769ms] [LOG] bluk:  @ https://www.monami.com/customer/inquiry.php:320
+[  471647ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0

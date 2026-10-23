@@ -134,11 +134,13 @@ ul,li {
     flex: 1;
 }
 .head_nav-con {
+    width: 1400px;
     justify-content: space-between;
     align-items: center;
     gap: 15px;
     font-size: 17px;
     color: #303030;
+    padding-left: 62px; padding-right: 62px;
 }
 .head_icons {
     align-items: center;
