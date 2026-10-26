@@ -56,8 +56,22 @@ footer {
 ul>li*3>a[target="_blank"][title="#"][href="#"] []대괄호를 통해서 안에 들어가는 내용 미리 작성
 #을 넣어서 넘어가는 실수 안생기게 해준다.
 텍스를 넣을 땐 <a></a> a 사이에 넣어준다.
+- a target="_self" : 보고 있는 페이지에서 열기
+- a taget="_blanlk" : 새로운 탭에서 페이지 열기
+
+- a를 작성할 때는 title을 항상 넣어줘야 한다(접근성 때문)
+
 
 html 코드 복잡해지는걸 최소화해줌.
+/* after:li 안에 있는 a에 content 붙이는 행위(자식으로 들어옴) */
 .topmenu>ul>li::after {
   content: "|";
+}
+.topmenu>ul>li:nth-child(1)::after,
+nth-child li(1)번에만 a뒤쪽에 content 붙임.
+
+img는 넣었을 때 인레이가 기본설정 되어 있어 css에서 block 으로 다시 적용해주고 배경색 #f1f1f1으로 설정해준다.
+img {
+  display: block;
+  background-color: #f1f1f1;
 }
