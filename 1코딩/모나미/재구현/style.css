@@ -91,7 +91,9 @@ img {
   margin-left: auto; margin-right: auto;
   padding-top: 14px; padding-bottom: 14px;
 }
-
+.header {
+  border-bottom: 1px solid #eaeaea;
+}
 .header_con {
   justify-content: space-between;
   align-items: center;
@@ -110,7 +112,7 @@ img {
   gap: 7px;
 }
 .lang_btn > span {
-  font-size: 13px; color: #555;
+  font-size: 11px; color: #555;
 }
 .sns>ul {
   display: flex; gap: 7px;
@@ -120,8 +122,12 @@ img {
   height: 100%; gap: 22px;
   font-size: 11px; color: #9b9a9a;
 }
+.top_menu {
+  border: 1px solid orange;
+}
 .top_menu>ul>li {
   display: flex; align-items: center;
+  gap: 22px;
 }
 .top_menu>ul>li:nth-child(1)::after,
 .top_menu>ul>li:nth-child(2)::after {
