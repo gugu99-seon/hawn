@@ -70,6 +70,9 @@ body, ul, li {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
 button {
   margin: 0; padding: 0;
   border: 0; background-color: transparent;
@@ -82,20 +85,31 @@ img {
 }
 
 .con {
-  width: 1400px; height: 59px;
+  width: 1400px; height: 58px;
   display: flex;
   margin-left: auto; margin-right: auto;
+  padding-top: 14px; padding-bottom: 14px;
 }
 
+.header_con {
+  justify-content: space-between;
+  align-items: center;
+}
 .top_left {
   display: flex; justify-content: center;
-  
+  gap: 12px;
 }
 .lang_btn {
   display: flex; justify-content: center;
   align-items: center;
+  width: 88px; height: 30px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  color: #555;
 }
-
+.lang_btn > span {
+  font-size: 13px;
+}
 .sns>ul {
-  display: flex;
+  display: flex; gap: 7px;
 }
