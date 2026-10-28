@@ -45,6 +45,15 @@ header {
 - button을 넣을 땐 항상 type까지 설정해서 작성한다.
 - img는 넣었을 때 인레이가 기본설정 되어 있어 css에서 block 으로 다시 적용해주고 배경색 #f1f1f1으로 설정해준다.
 
+- 로고 박스를 만들 땐 주로 h 태그를 사용한다.
+
+- nav 박스를 만들 땐 div. class 제목으로 사용하지 않는다. 구조를 정확히 작성해야 내용을 찾거나 시각 장애 있는 분들이 설명을 알아듣기 좋다.
+- nav에 2차 메뉴가 있는 경우 네비-2차 메뉴 사이에 여백이 있으면 화면 연결이 끊길 수 있어 박스크기를 여백없이 만들어준다. (padding이나 width활용) + 같은 부모 박스에 있는 것들은 align-self: 로 따로 정렬
+
+- 부모 태그에 높이 값을 적용했을 때 적용이 잘 안되면 height를 100%를 주거나 그 밑의 자식요소에서 적용하는 것이 좋다.
+* div class="top-bar"
+  - div class="con topbar-con" topbar-con에 높이 값 적용.
+
 ### 리스트 작성
 - ul > li > a > (img)
 
@@ -55,17 +64,26 @@ header {
 - a taget="_blanlk" : 새로운 탭에서 페이지 열기
 - a를 작성할 때는 title을 항상 넣어줘야 한다(접근성 때문)
 
-
-#### css content 넣는 방법
-- html 코드 복잡해지는걸 최소화해줌.
+#### css
+1. content
+- content를 활용해서 html 코드 복잡해지는걸 최소화해줌.
 - after: li 안에 있는 a에 content 붙이는 행위(자식으로 들어옴) */
-.topmenu>ul>li::after {
-  content: "|";
-}
+.topmenu>ul>li::after {content: "|";}
+- ** after를 사용할 땐 항상 content를 넣어줘야 한다. 안에 내용은 비워두어도 상관없음.(content: "")
 - nth-child li(번호) 번호를 입력해서 li 하나에만 content 붙이는 행위.
 .topmenu>ul>li:nth-child(1)::after,
 nth-child li(1)번에만 a뒤쪽에 content 붙임.
 
-- 로고 박스를 만들 땐 주로 h 태그 사용.
-- nav 박스를 만들 땐 div. class 제목으로 사용하지 않는다. 구조를 정확히 작성해야 내용을 찾거나 시각 장애 있는 분들이 설명을 알아듣기 좋다.
-- nav에 2차 메뉴가 있는 경우 네비-2차 메뉴 사이에 여백이 있으면 화면 연결이 끊길 수 있어 박스크기를 여백없이 만들어준다. (padding이나 width활용) + 같은 부모 박스에 있는 것들은 align-self: 로 따로 정렬
+2. position
+- relative : 배치된 곳을 기준 이동.
+- absolute : relative를 기준으로 이동 ?
+
+* position: relative와 position: absolute의 차이점
+  - position: relative는 요소가 원래 위치를 유지하면서 top, left 등의 좌표 속성을 사용하여 자신이 위치한 곳을 기준으로 상대적으로 이동합니다.
+  (이 경우 요소가 차지하는 원래 공간은 그대로 남아있습니다.)
+
+  - position: absolute는 가장 가까운 위치 지정된 조상 요소를 기준으로 위치가 결정되며, 문서 흐름에서 제거되어 다른 요소와 상호작용하지 않습니다.
+  (부모 요소를 기준으로 위치를 잡으려면 부모 요소에 position: relative를 선언하는 것이 일반적입니다.)
+
+- transition
+  
