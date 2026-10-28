@@ -104,11 +104,7 @@ header {
 }
 /* 투명도 0~1 rgba : red, green, blue, alpha(투명도) */
 
-.header-con {
-  flex-direction: column;
-}
-.utmenu {
-  display: flex;
+.utmenu-con {
   justify-content: space-between;
   height: 58px;
 }
@@ -154,7 +150,51 @@ header {
   content: "|"; font-size: 8px;
 }
 .top-bar {
-  /* border: 1px solid green; */
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+}
+.topbar-con {
+  justify-content: space-between;
+  height: 89px;
+}
+.logo_box {
+  align-self: center;
+}
+
+nav>ul {
+  display: flex;
+  height: 100%;
+}
+nav>ul>li {
+  display: flex; align-items: center;
+  padding-left: 27px; padding-right: 27px;
+  font-size: 17px; color: #303030;
+  position: relative;
+}
+nav>ul>li:hover {
+  font-weight: 700;
+}
+nav>ul>li::after {
+  content: "";
+  position: absolute;
+  width: 0%; height: 2px;
+  background-color: #c40f39;
+  bottom: 0; left: 0;
+  transition: 0.3s;
+}
+nav>ul>li:hover:after {
+  width: 100%;
+}
+
+.header_util {
+  display: flex;
+  align-self: center;
+  gap: 28px;
+}
+#header_util .search,
+#header_util .menu {
+  color: #303030;  
+  font-size: 20px;
 }
 
 main {

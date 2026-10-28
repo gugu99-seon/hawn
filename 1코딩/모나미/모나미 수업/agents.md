@@ -65,3 +65,7 @@ header {
 - nth-child li(번호) 번호를 입력해서 li 하나에만 content 붙이는 행위.
 .topmenu>ul>li:nth-child(1)::after,
 nth-child li(1)번에만 a뒤쪽에 content 붙임.
+
+- 로고 박스를 만들 땐 주로 h 태그 사용.
+- nav 박스를 만들 땐 div. class 제목으로 사용하지 않는다. 구조를 정확히 작성해야 내용을 찾거나 시각 장애 있는 분들이 설명을 알아듣기 좋다.
+- nav에 2차 메뉴가 있는 경우 네비-2차 메뉴 사이에 여백이 있으면 화면 연결이 끊길 수 있어 박스크기를 여백없이 만들어준다. (padding이나 width활용) + 같은 부모 박스에 있는 것들은 align-self: 로 따로 정렬
