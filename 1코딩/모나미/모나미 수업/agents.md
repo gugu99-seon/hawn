@@ -65,7 +65,7 @@ header {
 - a를 작성할 때는 title을 항상 넣어줘야 한다(접근성 때문)
 
 #### css
-1. content
+1. after, content
 - content를 활용해서 html 코드 복잡해지는걸 최소화해줌.
 - after: li 안에 있는 a에 content 붙이는 행위(자식으로 들어옴) */
 .topmenu>ul>li::after {content: "|";}
@@ -74,16 +74,20 @@ header {
 .topmenu>ul>li:nth-child(1)::after,
 nth-child li(1)번에만 a뒤쪽에 content 붙임.
 
-2. position
-- relative : 배치된 곳을 기준 이동.
-- absolute : relative를 기준으로 이동 ?
+- 코드를 작성할 때 앞에 있는 코드의 자식요소로 들어간다.(topmenu>ul>li::after의 경우 li의 자식요소가 됨)
+- topmenu>ul>li>a인 경우 before는 a 전에, after는 a 뒤에 들어간다.
 
-* position: relative와 position: absolute의 차이점
-  - position: relative는 요소가 원래 위치를 유지하면서 top, left 등의 좌표 속성을 사용하여 자신이 위치한 곳을 기준으로 상대적으로 이동합니다.
-  (이 경우 요소가 차지하는 원래 공간은 그대로 남아있습니다.)
+- x,y는 무조건 양수로 적용한다.(x-left, right)(y-top,bottom)
 
-  - position: absolute는 가장 가까운 위치 지정된 조상 요소를 기준으로 위치가 결정되며, 문서 흐름에서 제거되어 다른 요소와 상호작용하지 않습니다.
-  (부모 요소를 기준으로 위치를 잡으려면 부모 요소에 position: relative를 선언하는 것이 일반적입니다.)
+##### css 속성 기본설정 값
+- display : inline
 
-- transition
-  
+- after : 기본 display-inline
+  -> 너비-높이 값이 기본 auto로 있고, 조정할 수 없다. -> 조정하려면 display를 변경해줘야 한다.(flex 적용)
+
+- img : 기본 display-inline(텍스트와 같은 줄에 배치)
+
+- position : static
+
+- color : inherit
+
