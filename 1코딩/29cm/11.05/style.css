@@ -193,16 +193,15 @@ header {
     display: flex;
     justify-content: space-between;
 }
-.promo-banners {
+.promotion-banners {
     padding-right: 54px;
     width: 44%;
 }
-
-.promo-banners img {
+.promotion-banners img {
     padding: 0;
     width: 100%;
 }
-.promolist{
+.promotion-list {
     display: flex;
     width: 56%;
     border: 1px solid orange;
@@ -288,7 +287,7 @@ header {
     font-size: 10px; font-weight: 500;
     color: #6a6a6a;
 }
-.event-badge>.benefit {
+.feed-benefit>.benefit {
     padding-left: 4px; padding-right: 4px;
     background-color: #f0f0f0;
     border-radius: 2px;
