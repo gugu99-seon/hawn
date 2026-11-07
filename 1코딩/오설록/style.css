@@ -83,16 +83,17 @@ button {
     padding: 0; margin: 0; border: 0;
     background-color: transparent;
     color: inherit;
+    font-family: 'Pretendard', sans-serif;
 }
 
 img {
-    display: block; background-color: #f1f1f1;
+    display: block; background-color: transparent;
 }
 .con {
     display: flex;
     margin-left: auto; margin-right: auto;
-    width: 1820px;
-    padding-left: 50px; padding-right: 50px;
+    width: 1400px;
+    padding-left: 20px; padding-right: 20px;
 }
 
 .header-con {
@@ -105,31 +106,68 @@ img {
     align-items: center;
 }
 .logo-img {
-    width: 154px;
     padding-right: 48px;
 }
 .logo-img img {
-    width: 100%;
+    width: 154px;
 }
 .nav-list>ul {
     display: flex;
-    font-size: 16px; font-weight: 500;
-    color: #000;
 }
 .nav-list>ul>li {
+    font-size: 16px; font-weight: 500;
+    color: #000;
     padding: 30px;
     margin: 12px 8px;
 }
-.nav-util>ul {
+.nav-list>ul>li>a:hover {
+    color: #5e6d3c;
+}
+.nav-util {
     display: flex; align-items: center;
     font-size: 16px;    
     gap: 32px;
     color: #000;
-}
-.nav-util>ul>li {
     margin: 0;
 }
-.main_banner img {
+.util-icon {
+    display: flex; align-items: center;
+    font-size: 24px; font-weight: 200;
+}
+
+.main_banner {
+    background-color:#f9f2e0;
+}
+.banner-con {
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-copy {
+    width: 900px;
+    padding: 40px;
+}
+.banner-copy>span {
     display: block;
-    width: 100%; height: auto;
+    font-size: 13px; color: #596565;
+    margin: 0 0 28px;
+}
+.banner-copy h2 {
+    font-size: 37px;
+    font-weight: 500;
+    margin: 8px 0;
+}
+.banner-copy p {
+    font-size: 14px;
+    margin: 24px 0 30px;
+}
+.banner-copy a {
+    width: 220px; height: 46px;
+    display: flex; align-items: center;
+    justify-content: center;
+    border: 1px solid #333;
+    font-size: 13px;
+}
+.banner-image {
+    width: 100%;
+    margin-right: 100px;
 }
