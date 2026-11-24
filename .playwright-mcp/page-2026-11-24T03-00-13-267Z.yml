@@ -1,0 +1,233 @@
+- generic [ref=f74e5]:
+  - navigation [ref=f74e6]:
+    - generic [ref=f74e7]:
+      - generic [ref=f74e8]:
+        - link "Unsplash 홈" [ref=f74e9] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f74e10]
+        - link "사진" [ref=f74e12] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f74e15] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f74e18]:
+        - button "탐색" [ref=f74e19] [cursor=pointer]
+        - button "컬렉션" [ref=f74e22] [cursor=pointer]
+        - button "다운로드 내역" [ref=f74e25] [cursor=pointer]
+      - button "북마크" [ref=f74e29] [cursor=pointer]
+    - generic [ref=f74e32]:
+      - link "로그인 / 가입" [ref=f74e33] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B8%25B0%25ED%2595%2598%25ED%2595%2599%25EC%25A0%2581-%25EB%25B2%25BD%25EB%258F%258C-%25EA%25B8%25B0%25EB%2591%25A5%25EC%259D%2580-%25EC%25B6%2594%25EC%2583%2581%25EC%25A0%2581%25EC%259D%25B8-%25EA%25B1%25B4%25EC%25B6%2595-%25EC%2596%2591%25EC%258B%259D%25EC%259D%2584-%25EB%25A7%258C%25EB%2593%25A4%25EC%2596%25B4%25EB%2583%2585%25EB%258B%2588%25EB%258B%25A4-MG2LkGC3tnc
+      - button "언어" [ref=f74e36] [cursor=pointer]
+      - button "메뉴" [ref=f74e39] [cursor=pointer]
+  - generic [ref=f74e42]:
+    - generic [ref=f74e43]:
+      - navigation [ref=f74e44]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f74e46]:
+          - button "Unsplash 검색" [ref=f74e47] [cursor=pointer]
+          - combobox [ref=f74e50]:
+            - searchbox "Unsplash 검색" [ref=f74e51]
+            - listbox
+          - button "시각적 검색" [ref=f74e53] [cursor=pointer]
+        - generic [ref=f74e56]:
+          - link "Unsplash+ 구독" [ref=f74e57] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f74e58] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B8%25B0%25ED%2595%2598%25ED%2595%2599%25EC%25A0%2581-%25EB%25B2%25BD%25EB%258F%258C-%25EA%25B8%25B0%25EB%2591%25A5%25EC%259D%2580-%25EC%25B6%2594%25EC%2583%2581%25EC%25A0%2581%25EC%259D%25B8-%25EA%25B1%25B4%25EC%25B6%2595-%25EC%2596%2591%25EC%258B%259D%25EC%259D%2584-%25EB%25A7%258C%25EB%2593%25A4%25EC%2596%25B4%25EB%2583%2585%25EB%258B%2588%25EB%258B%25A4-MG2LkGC3tnc
+        - button "이미지 제출" [ref=f74e60] [cursor=pointer]
+      - generic [ref=f74e61]:
+        - generic [ref=f74e62]:
+          - banner [ref=f74e64]:
+            - generic [ref=f74e66]:
+              - link [ref=f74e67] [cursor=pointer]:
+                - /url: /ko/@javchz
+              - generic [ref=f74e70]:
+                - link "Javier Garcia Chavez" [ref=f74e71] [cursor=pointer]:
+                  - /url: /ko/@javchz
+                - link "javchz" [ref=f74e73] [cursor=pointer]:
+                  - /url: /ko/@javchz
+            - generic [ref=f74e74]:
+              - button "북마크" [ref=f74e75] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f74e78] [cursor=pointer]
+              - button "이미지 편집" [ref=f74e81] [cursor=pointer]
+              - generic [ref=f74e85]:
+                - link "무료 다운로드" [ref=f74e86] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/MG2LkGC3tnc/download?force=true
+                - button "다운로드 크기 선택" [ref=f74e88] [cursor=pointer]
+          - button "이 이미지 확대" [ref=f74e94]:
+            - img "기하학적 벽돌 기둥은 추상적인 건축 양식을 만들어냅니다" [ref=f74e95]
+          - generic [ref=f74e96]:
+            - generic [ref=f74e97]:
+              - generic [ref=f74e98]:
+                - generic [ref=f74e99]:
+                  - heading "조회수" [level=3] [ref=f74e100]
+                  - text: 2,890
+                - generic [ref=f74e101]:
+                  - heading "다운로드" [level=3] [ref=f74e102]
+                  - text: "19"
+              - generic [ref=f74e103]:
+                - button "이 이미지 공유" [ref=f74e104] [cursor=pointer]:
+                  - generic [ref=f74e107]: 공유
+                - button "이 이미지 관련 통계" [ref=f74e108] [cursor=pointer]:
+                  - generic [ref=f74e111]: 정보
+                - button "더 많은 작업" [ref=f74e112] [cursor=pointer]
+            - generic [ref=f74e116]:
+              - heading "기하학적 벽돌 기둥은 추상적인 건축 양식을 만들어냅니다" [level=1] [ref=f74e118]
+              - paragraph [ref=f74e122]: México Tepic에서 Javier Garcia Chavez(@javchz)의 이 무료 텍스처, 건축학, 무늬 및 기하학적 패턴 HD 사진 다운로드
+              - generic [ref=f74e124]:
+                - generic [ref=f74e125]: Ciudad de las Artes Indígenas, Avenida México Norte, Centro, Tepic, Nay., México
+                - generic [ref=f74e134]:
+                  - time [ref=f74e135]: 2026년 1월 11일
+                  - text: 에 게시됨
+                - button "Canon, EOS M50m2" [ref=f74e140] [cursor=pointer]
+                - generic [ref=f74e144]:
+                  - link "Unsplash 라이선스" [ref=f74e145] [cursor=pointer]:
+                    - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                  - text: 하에서 무료로 사용 가능
+            - generic [ref=f74e147]:
+              - link "텍스처" [ref=f74e148] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%85%8D%EC%8A%A4%EC%B2%98
+              - link "건축학" [ref=f74e149] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EC%B6%95%ED%95%99
+              - link "무늬" [ref=f74e150] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B4%EB%8A%AC
+              - link "기하학적 패턴" [ref=f74e151] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%ED%8C%A8%ED%84%B4
+              - link "현대 건축" [ref=f74e152] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EC%B6%95
+              - link "따뜻하다" [ref=f74e153] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%94%B0%EB%9C%BB%ED%95%98%EB%8B%A4
+              - link "벽돌" [ref=f74e154] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C
+              - link "관점" [ref=f74e155] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B4%80%EC%A0%90
+              - link "빛과 그림자" [ref=f74e156] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B9%9B%EA%B3%BC-%EA%B7%B8%EB%A6%BC%EC%9E%90
+              - link "현대 건물" [ref=f74e157] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC
+              - link "추상 아키텍처" [ref=f74e158] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98
+              - link "대칭" [ref=f74e159] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8C%80%EC%B9%AD
+              - link "반복" [ref=f74e160] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%98%EB%B3%B5
+              - link "아키텍처 세부 정보" [ref=f74e161] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%B8%EB%B6%80-%EC%A0%95%EB%B3%B4
+              - link "건축 자재" [ref=f74e162] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EC%B6%95-%EC%9E%90%EC%9E%AC
+              - link "현대적인 디자인" [ref=f74e163] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EB%94%94%EC%9E%90%EC%9D%B8
+              - link "건물 외관" [ref=f74e164] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC-%EC%99%B8%EA%B4%80
+              - link "벽돌" [ref=f74e165] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C
+              - link "아치" [ref=f74e166] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%84%EC%B9%98
+              - link "도시 디자인" [ref=f74e167] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%8B%9C-%EB%94%94%EC%9E%90%EC%9D%B8
+              - link "HD 배경화면" [ref=f74e168] [cursor=pointer]:
+                - /url: /ko/wallpapers
+        - generic [ref=f74e171]:
+          - paragraph [ref=f74e174]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+          - generic [ref=f74e185]:
+            - heading "관련 이미지" [level=4] [ref=f74e187]
+            - generic [ref=f74e191]:
+              - generic [ref=f74e192]:
+                - figure [ref=f74e193]:
+                  - link [ref=f74e196]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%ED%95%98%EB%8A%98%EC%9D%98-%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC-aB32vo76UQM
+                    - img "푸른 하늘의 고층 건물" [ref=f74e197]
+                - figure [ref=f74e198]:
+                  - generic [ref=f74e200]:
+                    - link [ref=f74e201]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%A4-%EA%B1%B4%EB%AC%BC%EC%9D%98-%ED%9D%91%EB%B0%B1-%EC%82%AC%EC%A7%84-VoGDmLKfKG8
+                      - img "밤 건물의 흑백 사진" [ref=f74e202]
+                    - link [ref=f74e203] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%25A4-%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%2598-%25ED%259D%2591%25EB%25B0%25B1-%25EC%2582%25AC%25EC%25A7%2584-VoGDmLKfKG8
+                - figure [ref=f74e206]:
+                  - generic [ref=f74e208]:
+                    - link [ref=f74e209]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%B0%EB%91%A5%EA%B3%BC-%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B8%B4-%EB%B3%B5%EB%8F%84-Px5LmBxjnXM
+                      - img "기둥과 그림자가 있는 긴 복도" [ref=f74e210]
+                    - link [ref=f74e211] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B8%25B0%25EB%2591%25A5%25EA%25B3%25BC-%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259E%2590%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EA%25B8%25B4-%25EB%25B3%25B5%25EB%258F%2584-Px5LmBxjnXM
+                - figure [ref=f74e214]:
+                  - link [ref=f74e217]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC-%EC%B8%A1%EB%A9%B4%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-PRawzJ2hMXg
+                    - img "건물 측면의 클로즈업" [ref=f74e218]
+                - figure [ref=f74e219]:
+                  - link [ref=f74e222]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-h93GTJ_6KUo
+                    - img "건물의 클로즈업" [ref=f74e223]
+                - figure [ref=f74e224]:
+                  - link [ref=f74e227]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%98%EB%9E%80%ED%9E%88-%EB%8A%98%EC%96%B4%EC%84%A0-%EB%B2%BD%EB%8F%8C-%EB%B2%BD-8b2w2kI6PAI
+                    - img "나란히 늘어선 벽돌 벽" [ref=f74e228]
+                - figure [ref=f74e229]:
+                  - generic [ref=f74e231]:
+                    - link [ref=f74e232]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC%EC%9D%98-%ED%9D%91%EB%B0%B1-%EC%82%AC%EC%A7%84-3GX1RaXBDDg
+                      - img "고층 건물의 흑백 사진" [ref=f74e233]
+                    - link [ref=f74e234] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC%25EC%259D%2598-%25ED%259D%2591%25EB%25B0%25B1-%25EC%2582%25AC%25EC%25A7%2584-3GX1RaXBDDg
+              - generic [ref=f74e237]:
+                - figure [ref=f74e238]:
+                  - link [ref=f74e241]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%A0-%EB%B0%94%EA%B5%AC%EB%8B%88%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-bP7Dii4_YIw
+                    - img "짠 바구니의 클로즈업" [ref=f74e242]
+                - figure [ref=f74e243]:
+                  - link [ref=f74e246]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B7%B8-%EC%9C%84%EC%97%90-%EC%8B%9C%EA%B3%84%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%AA%A9%EC%A1%B0-%EA%B5%AC%EC%A1%B0%EB%AC%BC-UGvWIYycP1c
+                    - img "그 위에 시계가 있는 목조 구조물" [ref=f74e247]
+                - figure [ref=f74e248]:
+                  - link [ref=f74e251]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%AA%A9%EC%9E%AC-%EB%93%A4%EB%B3%B4%EA%B0%80-%EA%B3%A1%EC%84%A0%ED%98%95-%EA%B1%B4%EC%B6%95-%EC%B2%9C%EC%9E%A5%EC%9D%84-%ED%98%95%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4-epsKrowQRWU
+                    - img "목재 들보가 곡선형 건축 천장을 형성합니다" [ref=f74e252]
+                - figure [ref=f74e253]:
+                  - link [ref=f74e256]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EA%B0%9C%EA%B5%AC%EB%B6%80%EC%99%80-%EB%94%B0%EB%9C%BB%ED%95%9C-%EC%A1%B0%EB%AA%85%EC%9D%84-%EA%B0%96%EC%B6%98-%ED%98%84%EB%8C%80-%EA%B1%B4%EC%B6%95-%EA%B5%AC%EC%A1%B0-b1kNxnBrA6s
+                    - img "기하학적 개구부와 따뜻한 조명을 갖춘 현대 건축 구조" [ref=f74e257]
+                - figure [ref=f74e258]:
+                  - link [ref=f74e261]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C-%ED%8C%A8%ED%84%B4%EC%9D%98-%ED%98%84%EB%8C%80-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%EC%99%B8%EA%B4%80-P0SbYLQoiSw
+                    - img "벽돌 패턴의 현대 건물의 기하학적 외관" [ref=f74e262]
+                - figure [ref=f74e263]:
+                  - generic [ref=f74e265]:
+                    - link [ref=f74e266]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%A0%EC%B8%B5-%EA%B1%B4%EB%AC%BC-%EC%B8%A1%EB%A9%B4%EC%97%90-%EC%9E%88%EB%8A%94-%EC%8B%9C%EA%B3%84-JnhJqF92ghU
+                      - img "고층 건물 측면에 있는 시계" [ref=f74e267]
+                    - link [ref=f74e268] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B3%25A0%25EC%25B8%25B5-%25EA%25B1%25B4%25EB%25AC%25BC-%25EC%25B8%25A1%25EB%25A9%25B4%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%258B%259C%25EA%25B3%2584-JnhJqF92ghU
+                - figure [ref=f74e271]:
+                  - link [ref=f74e274]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B2%BD%EB%8F%8C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%B2%BD%EB%8F%8C-%EB%B2%BD%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-_karqkGCRRE
+                    - img "벽돌로 만든 벽돌 벽의 클로즈업" [ref=f74e275]
+              - generic [ref=f74e276]:
+                - figure [ref=f74e277]:
+                  - link [ref=f74e280]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B1%B4%EB%AC%BC-%EC%98%86%EC%97%90-%EC%9E%88%EB%8A%94-%EC%8B%9C%EA%B3%84-mQBIERxzDBk
+                    - img "건물 옆에 있는 시계" [ref=f74e281]
+                - figure [ref=f74e282]:
+                  - link [ref=f74e285]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%8C%8C%EB%9E%80-%ED%95%98%EB%8A%98%EC%9D%84-%EB%B0%B0%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EA%B1%B4%EB%AC%BC-%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%97%90-%EC%9E%88%EB%8A%94-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B8-%EB%B2%BD%EB%8F%8C-%EB%AC%B4%EB%8A%AC-k0jBmI2Po_Q
+                    - img "파란 하늘을 배경으로 건물 모서리에 있는 추상적인 벽돌 무늬" [ref=f74e286]
+                - figure [ref=f74e287]:
+                  - link [ref=f74e290]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B6%89%EC%9D%80-%EC%A0%90%ED%86%A0-%EA%B8%B0%EC%99%80%EA%B0%80-%EC%96%B9%ED%9E%8C-%EA%B3%A1%EC%84%A0-%EC%A7%80%EB%B6%95-flpNa1tkKfY
+                    - img "겹쳐진 붉은 점토 기와로 덮인 곡선형 지붕이 맑고 푸른 하늘을 배경으로 펼쳐졌다" [ref=f74e291]
+                - figure [ref=f74e292]:
+                  - generic [ref=f74e294]:
+                    - link [ref=f74e295]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A7%88%EA%B0%90%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%8C%80%EA%B0%81%EC%84%A0-%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%9D%B4%EB%A3%A8%EB%8A%94-%EB%82%98%EB%AC%B4-%ED%8C%90%EC%9E%90-T0y_KCnwQyI
+                      - img "질감이 있는 대각선 패턴을 이루는 나무 판자" [ref=f74e296]
+                    - link [ref=f74e297] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25A7%2588%25EA%25B0%2590%25EC%259D%25B4-%25EC%259E%2588%25EB%258A%2594-%25EB%258C%2580%25EA%25B0%2581%25EC%2584%25A0-%25ED%258C%25A8%25ED%2584%25B4%25EC%259D%2584-%25EC%259D%25B4%25EB%25A3%25A8%25EB%258A%2594-%25EB%2582%2598%25EB%25AC%25B4-%25ED%258C%2590%25EC%259E%2590-T0y_KCnwQyI
+                - figure [ref=f74e300]:
+                  - link [ref=f74e303]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%AE%EC%97%90%EB%8A%94-%EA%B0%88%EC%83%89-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EA%B1%B4%EB%AC%BC-Z8UfPz-OqiQ
+                    - img "낮에는 갈색 콘크리트 건물" [ref=f74e304]
+                - figure [ref=f74e305]:
+                  - link [ref=f74e308]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%82%AE%EC%97%90%EB%8A%94-%ED%95%98%EC%96%80-%ED%95%98%EB%8A%98-%EC%95%84%EB%9E%98-%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%EC%A7%80%EB%B6%95-I1odE0WOBYE
+                    - img "낮에는 하얀 하늘 아래 갈색 나무 지붕" [ref=f74e309]
+    - generic:
+      - region "Notifications"

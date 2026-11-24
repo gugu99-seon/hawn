@@ -1,0 +1,129 @@
+- generic [ref=f121e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f121e13]:
+      - generic [ref=f121e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f121e18]
+        - generic "이미지 업로드" [ref=f121e22]:
+          - button "Pinterest 렌즈" [ref=f121e23] [cursor=pointer]
+      - link "내 프로필" [ref=f121e32] [cursor=pointer]:
+        - /url: /gsantos2969/
+        - img [ref=f121e39]:
+          - generic [ref=f121e40]: S
+      - button "계정" [ref=f121e44] [cursor=pointer]
+  - navigation [ref=f121e49]:
+    - generic [ref=f121e51]:
+      - generic [ref=f121e52]:
+        - generic "홈" [ref=f121e56]:
+          - link "홈" [ref=f121e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f121e64]:
+          - link "홈" [ref=f121e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f121e72]:
+          - link "내 보드" [ref=f121e73] [cursor=pointer]:
+            - /url: /gsantos2969/
+        - generic "만들기" [ref=f121e80]:
+          - button "만들기" [ref=f121e81] [cursor=pointer]
+        - generic "메시지" [ref=f121e93]:
+          - button "메시지" [ref=f121e94] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f121e103]:
+        - button "설정 및 지원" [ref=f121e104] [cursor=pointer]
+  - main [ref=f121e109]:
+    - generic [ref=f121e119]:
+      - button "뒤로" [ref=f121e121] [cursor=pointer]
+      - generic [ref=f121e130]:
+        - generic [ref=f121e131]: 관련 상품 결과를 불러오는 중
+        - list [ref=f121e136]:
+          - listitem [ref=f121e137]:
+            - group "Closeup content container" [ref=f121e144]:
+              - generic [ref=f121e149]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f121e152]:
+                  - region "핀 이미지" [ref=f121e157]:
+                    - link "사이트 방문, creativemarket.com" [ref=f121e167] [cursor=pointer]:
+                      - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                      - generic [ref=f121e171]: 사이트 방문
+                - generic [ref=f121e172]:
+                  - generic [ref=f121e175]:
+                    - list [ref=f121e176]:
+                      - generic [ref=f121e177]:
+                        - listitem [ref=f121e179]:
+                          - generic "반응" [ref=f121e182]:
+                            - button "반응" [ref=f121e183] [cursor=pointer]
+                          - generic [ref=f121e188]: "0"
+                        - listitem [ref=f121e190]:
+                          - generic "댓글" [ref=f121e193]:
+                            - button "댓글" [ref=f121e194] [cursor=pointer]
+                        - listitem [ref=f121e200]:
+                          - generic "공유" [ref=f121e204]:
+                            - button "이 핀 공유" [ref=f121e206] [cursor=pointer]
+                        - listitem [ref=f121e212]:
+                          - generic "추가 작업" [ref=f121e217]:
+                            - button "추가 작업" [ref=f121e219] [cursor=pointer]
+                    - generic [ref=f121e229]:
+                      - 'button "저장할 보드 선택: ..." [ref=f121e232] [cursor=pointer]':
+                        - generic "..." [ref=f121e235]
+                      - button "저장" [ref=f121e241] [cursor=pointer]
+                  - generic [ref=f121e249]:
+                    - generic [ref=f121e258]:
+                      - link [ref=f121e260] [cursor=pointer]:
+                        - /url: /rosianadesign/
+                        - img "Rosiana Design 아바타 링크" [ref=f121e267]
+                      - link [ref=f121e271] [cursor=pointer]:
+                        - /url: /rosianadesign/
+                        - heading "Rosiana Design" [level=2] [ref=f121e272]
+                    - generic [ref=f121e275]:
+                      - generic [ref=f121e277]:
+                        - link [ref=f121e283] [cursor=pointer]:
+                          - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                          - heading "Minimalist Line Art Dog Logo" [level=1] [ref=f121e284]
+                        - link "사이트 방문, creativemarket.com" [ref=f121e292] [cursor=pointer]:
+                          - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                          - generic [ref=f121e293]: 사이트 방문
+                      - generic [ref=f121e296]:
+                        - heading "설명" [level=4] [ref=f121e297]
+                        - generic [ref=f121e299]:
+                          - generic [ref=f121e300]: Minimalist Line Art Dog Logo
+                          - generic [ref=f121e302]: "Perfect for:"
+                          - generic [ref=f121e304]:
+                            - generic [ref=f121e305]:
+                              - generic [ref=f121e306]: ·
+                              - generic [ref=f121e307]: Modern Pet Care Services
+                            - generic [ref=f121e309]:
+                              - generic [ref=f121e310]: ·
+                              - generic [ref=f121e311]: Minimalist Dog Grooming Businesses
+                            - generic [ref=f121e313]:
+                              - generic [ref=f121e314]: ·
+                              - generic [ref=f121e315]: Sleek and Contemporary Pet Brands
+                            - generic [ref=f121e317]:
+                              - generic [ref=f121e318]: ·
+                              - generic [ref=f121e319]: Timeless and Elegant Pet Branding
+                          - generic [ref=f121e321]: "Style Attributes:"
+                          - generic [ref=f121e323]:
+                            - generic [ref=f121e324]:
+                              - generic [ref=f121e325]: ·
+                              - generic [ref=f121e326]: Minimalist
+                            - generic [ref=f121e328]:
+                              - generic [ref=f121e329]: ·
+                              - generic [ref=f121e330]: Modern
+                            - generic [ref=f121e332]:
+                              - generic [ref=f121e333]: ·
+                              - generic [ref=f121e334]: Simple
+                          - generic [ref=f121e336]: "You'll receive:"
+                          - generic [ref=f121e338]:
+                            - generic [ref=f121e339]:
+                              - generic [ref=f121e340]: ·
+                              - generic [ref=f121e341]: Clean and Simplified Line Art Dog Design
+                            - generic [ref=f121e343]:
+                              - generic [ref=f121e344]: ·
+                              - generic [ref=f121e345]: 100% Resizable Vector Logo
+                            - generic [ref=f121e347]:
+                              - generic [ref=f121e348]: ·
+                              - generic [ref=f121e349]: AI, PSD & SVG Files for Easy Customization
+                          - generic [ref=f121e351]: For adjustments or additional formats, contact us. Redefine your pet brand with our Minimalist Line Art Dog Logo.
+                        - button "더 보기" [ref=f121e354] [cursor=pointer]
+          - listitem [ref=f121e357]
+          - listitem [ref=f121e361]

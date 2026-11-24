@@ -1,0 +1,216 @@
+- generic [ref=f69e5]:
+  - navigation [ref=f69e6]:
+    - generic [ref=f69e7]:
+      - generic [ref=f69e8]:
+        - link "Unsplash 홈" [ref=f69e9] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f69e10]
+        - link "사진" [ref=f69e12] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f69e15] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f69e18]:
+        - button "탐색" [ref=f69e19] [cursor=pointer]
+        - button "컬렉션" [ref=f69e22] [cursor=pointer]
+        - button "다운로드 내역" [ref=f69e25] [cursor=pointer]
+      - button "북마크" [ref=f69e29] [cursor=pointer]
+    - generic [ref=f69e32]:
+      - link "로그인 / 가입" [ref=f69e33] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD%25EC%259D%25B4-%25EC%25B0%258D%25ED%259E%258C-%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580-RDSK7DzIDUk
+      - button "언어" [ref=f69e36] [cursor=pointer]
+      - button "메뉴" [ref=f69e39] [cursor=pointer]
+  - generic [ref=f69e42]:
+    - generic [ref=f69e43]:
+      - navigation [ref=f69e44]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f69e46]:
+          - button "Unsplash 검색" [ref=f69e47] [cursor=pointer]
+          - combobox [ref=f69e50]:
+            - searchbox "Unsplash 검색" [ref=f69e51]
+            - listbox
+          - button "시각적 검색" [ref=f69e53] [cursor=pointer]
+        - generic [ref=f69e56]:
+          - link "Unsplash+ 구독" [ref=f69e57] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f69e58] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD%25EC%259D%25B4-%25EC%25B0%258D%25ED%259E%258C-%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580-RDSK7DzIDUk
+        - button "이미지 제출" [ref=f69e60] [cursor=pointer]
+      - generic [ref=f69e61]:
+        - generic [ref=f69e62]:
+          - banner [ref=f69e64]:
+            - generic [ref=f69e66]:
+              - link [ref=f69e67] [cursor=pointer]:
+                - /url: /ko/@kanatysh
+              - generic [ref=f69e70]:
+                - link "Duman Shaker" [ref=f69e71] [cursor=pointer]:
+                  - /url: /ko/@kanatysh
+                - link "고용 가능" [ref=f69e73] [cursor=pointer]:
+                  - /url: /ko/@kanatysh
+            - generic [ref=f69e76]:
+              - button "북마크" [ref=f69e77] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f69e80] [cursor=pointer]
+              - button "이미지 편집" [ref=f69e83] [cursor=pointer]
+              - generic [ref=f69e87]:
+                - link "무료 다운로드" [ref=f69e88] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/RDSK7DzIDUk/download?force=true
+                - button "다운로드 크기 선택" [ref=f69e90] [cursor=pointer]
+          - button "이 이미지 확대" [ref=f69e96]:
+            - img "눈 속에 발자국이 찍힌 강아지" [ref=f69e97]
+          - generic [ref=f69e98]:
+            - generic [ref=f69e99]:
+              - generic [ref=f69e100]:
+                - generic [ref=f69e101]:
+                  - heading "조회수" [level=3] [ref=f69e102]
+                  - text: 24,159
+                - generic [ref=f69e103]:
+                  - heading "다운로드" [level=3] [ref=f69e104]
+                  - text: "82"
+              - generic [ref=f69e105]:
+                - button "이 이미지 공유" [ref=f69e106] [cursor=pointer]:
+                  - generic [ref=f69e109]: 공유
+                - button "이 이미지 관련 통계" [ref=f69e110] [cursor=pointer]:
+                  - generic [ref=f69e113]: 정보
+                - button "더 많은 작업" [ref=f69e114] [cursor=pointer]
+            - generic [ref=f69e118]:
+              - heading "눈 속에 발자국이 찍힌 강아지" [level=1] [ref=f69e120]
+              - paragraph [ref=f69e124]: Duman Shaker(@kanatysh)의 이 무료 바닷가, 텍스처, 겨울 및 무늬 HD 사진 다운로드
+              - generic [ref=f69e126]:
+                - generic [ref=f69e131]:
+                  - time [ref=f69e132]: 2024년 1월 12일
+                  - text: 에 게시됨
+                - button "NIKON CORPORATION, NIKON D3100" [ref=f69e137] [cursor=pointer]
+                - generic [ref=f69e141]:
+                  - link "Unsplash 라이선스" [ref=f69e142] [cursor=pointer]:
+                    - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                  - text: 하에서 무료로 사용 가능
+            - generic [ref=f69e144]:
+              - link "바닷가" [ref=f69e145] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EB%8B%B7%EA%B0%80
+              - link "텍스처" [ref=f69e146] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%85%8D%EC%8A%A4%EC%B2%98
+              - link "겨울" [ref=f69e147] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B2%A8%EC%9A%B8
+              - link "무늬" [ref=f69e148] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B4%EB%8A%AC
+              - link "눈" [ref=f69e149] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%88%88
+              - link "하얀" [ref=f69e150] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%95%98%EC%96%80
+              - link "회색" [ref=f69e151] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89
+              - link "모래" [ref=f69e152] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AA%A8%EB%9E%98
+              - link "바위" [ref=f69e153] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EC%9C%84
+              - link "카자흐스탄" [ref=f69e154] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%B9%B4%EC%9E%90%ED%9D%90%EC%8A%A4%ED%83%84
+              - link "발자국" [ref=f69e155] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%9C%EC%9E%90%EA%B5%AD
+              - link "토양" [ref=f69e156] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%86%A0%EC%96%91
+              - link "바깥" [ref=f69e157] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EA%B9%A5
+        - generic [ref=f69e160]:
+          - paragraph [ref=f69e163]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+          - generic [ref=f69e174]:
+            - heading "관련 이미지" [level=4] [ref=f69e176]
+            - generic [ref=f69e180]:
+              - generic [ref=f69e181]:
+                - figure [ref=f69e182]:
+                  - link [ref=f69e185]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%82%AC%EB%9E%8C%EA%B3%BC-%EB%8F%99%EB%AC%BC%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%88%88-%EB%8D%AE%EC%9D%B8-%EB%95%85-DzZmMF5KV74
+                    - img "사람과 동물의 발자국이 있는 눈 덮인 땅" [ref=f69e186]
+                - figure [ref=f69e187]:
+                  - link [ref=f69e190]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%9D%98-%EB%91%90-%EB%B0%9C%EC%9E%90%EA%B5%AD-JXnwQfDvEEY
+                    - img "눈 속의 두 발자국" [ref=f69e191]
+                - figure [ref=f69e192]:
+                  - link [ref=f69e195]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A7%91%EC%9D%80-%EB%82%A0-%EB%88%88-%EC%86%8D%EC%97%90-%EC%B0%8D%ED%9E%8C-%EC%82%AC%EB%9E%8C%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD-q72-3OGMAGI
+                    - img "맑은 날 눈 속에 찍힌 사람의 발자국" [ref=f69e196]
+                - figure [ref=f69e197]:
+                  - generic [ref=f69e199]:
+                    - link [ref=f69e200]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%ED%95%B4%EB%B3%80%EC%9D%98-%EB%AA%A8%EB%9E%98-%EC%9C%84%EC%97%90-%EC%9E%88%EB%8A%94-%EC%83%88%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD-AB9z6cveA1Q
+                      - img "해변의 모래 위에 있는 새의 발자국" [ref=f69e201]
+                    - link [ref=f69e202] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2595%25B4%25EB%25B3%2580%25EC%259D%2598-%25EB%25AA%25A8%25EB%259E%2598-%25EC%259C%2584%25EC%2597%2590-%25EC%259E%2588%25EB%258A%2594-%25EC%2583%2588%25EC%259D%2598-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD-AB9z6cveA1Q
+                - figure [ref=f69e205]:
+                  - link [ref=f69e208]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD-%EA%B7%B8%EB%A3%B9-_StzDDUXLT8
+                    - img "눈 속의 발자국 그룹" [ref=f69e209]
+                - figure [ref=f69e210]:
+                  - link [ref=f69e213]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%96%87%EB%B9%9B-%EC%95%84%EB%9E%98-%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94-%EB%88%88-%EC%88%98%EC%A0%95-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-TPS6ssThI50
+                    - img "햇빛 아래 반짝이는 눈 수정 클로즈업" [ref=f69e214]
+              - generic [ref=f69e215]:
+                - figure [ref=f69e216]:
+                  - link [ref=f69e219]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D-%EB%8F%99%EB%AC%BC-%EB%B0%9C%EC%9E%90%EA%B5%AD-OnXf5P4HUZA
+                    - img "동물 발자국과 신선한 흰 눈 위의 인간 발자국" [ref=f69e220]
+                - figure [ref=f69e221]:
+                  - generic [ref=f69e223]:
+                    - link [ref=f69e224]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%AA%A8%EB%9E%98%EA%B8%B8-%EC%9C%84-%EB%88%88-%EC%9C%84%EC%97%90-%EB%82%A8%EC%9D%80-%EB%B0%9C%EC%9E%90%EA%B5%AD-5puPzSp8ua0
+                      - img "모래길 위 눈 위에 남은 발자국" [ref=f69e225]
+                    - link [ref=f69e226] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25AA%25A8%25EB%259E%2598%25EA%25B8%25B8-%25EC%259C%2584-%25EB%2588%2588-%25EC%259C%2584%25EC%2597%2590-%25EB%2582%25A8%25EC%259D%2580-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD-5puPzSp8ua0
+                - figure [ref=f69e229]:
+                  - link [ref=f69e232]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EB%8D%AE%EC%9D%B8-%ED%91%9C%EB%A9%B4%EC%97%90-%EB%B9%A8%EA%B0%84-%EC%9E%8E%EC%82%AC%EA%B7%80-%ED%95%9C-%EC%9E%A5-dskHEaHdz9U
+                    - img "눈 덮인 표면에 빨간 잎사귀 한 장" [ref=f69e233]
+                - figure [ref=f69e234]:
+                  - link [ref=f69e237]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8C%8D%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4-2rwghdGPnHU
+                    - img "눈 속에서 한 쌍의 발자국이 보입니다." [ref=f69e238]
+                - figure [ref=f69e239]:
+                  - link [ref=f69e242]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%8B%9D%EB%AC%BC%EC%9D%B4-%ED%8A%80%EC%96%B4-%EB%82%98%EC%98%A8-%EB%88%88-%EB%8D%AE%EC%9D%B8-%EB%95%85-YrKEjj4tSY4
+                    - img "식물이 튀어 나온 눈 덮인 땅" [ref=f69e243]
+                - figure [ref=f69e244]:
+                  - generic [ref=f69e246]:
+                    - link [ref=f69e247]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%94%EC%9C%84-%EB%8D%94%EB%AF%B8-%EC%98%86%EC%97%90-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%8D%AE%EC%9D%B8-%EB%B0%94%EC%9C%84-cTpEfLxdyFg
+                      - img "바위 더미 옆에 눈으로 덮인 바위" [ref=f69e248]
+                    - link [ref=f69e249] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B0%2594%25EC%259C%2584-%25EB%258D%2594%25EB%25AF%25B8-%25EC%2598%2586%25EC%2597%2590-%25EB%2588%2588%25EC%259C%25BC%25EB%25A1%259C-%25EB%258D%25AE%25EC%259D%25B8-%25EB%25B0%2594%25EC%259C%2584-cTpEfLxdyFg
+                - figure [ref=f69e252]:
+                  - link [ref=f69e255]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90%EC%84%9C-%EC%82%AC%EB%9E%8C%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-SnJg9JpsutI
+                    - img "눈 속에서 사람의 발자국 클로즈업" [ref=f69e256]
+              - generic [ref=f69e257]:
+                - figure [ref=f69e258]:
+                  - link [ref=f69e261]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80-%EB%93%9C%EB%A6%AC%EC%9A%B4-%EB%AA%A8%EB%9E%98-%EC%9C%84%EC%9D%98-%EB%8F%99%EB%AC%BC-%EB%B0%9C%EC%9E%90%EA%B5%AD-PhN-4u-ov4g
+                    - img "그림자가 드리운 모래 위의 동물 발자국" [ref=f69e262]
+                - figure [ref=f69e263]:
+                  - link [ref=f69e266]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%9C%84%EC%97%90-%EC%83%88%EA%B2%A8%EC%A7%84-%EB%8F%99%EB%AC%BC-%EB%B0%9C%EC%9E%90%EA%B5%AD-ugCYZxo5Vig
+                    - img "눈 위에 새겨진 동물 발자국" [ref=f69e267]
+                - figure [ref=f69e268]:
+                  - generic [ref=f69e270]:
+                    - link [ref=f69e271]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EC%96%BC%EC%9D%8C%EC%97%90-%EA%B0%87%ED%9E%8C-%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80-%EA%B1%B0%ED%92%88%EB%93%A4-UXLfx6Sigas
+                      - img "얼음에 갇힌 얼어붙은 거품들" [ref=f69e272]
+                    - link [ref=f69e273] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%2596%25BC%25EC%259D%258C%25EC%2597%2590-%25EA%25B0%2587%25ED%259E%258C-%25EC%2596%25BC%25EC%2596%25B4%25EB%25B6%2599%25EC%259D%2580-%25EA%25B1%25B0%25ED%2592%2588%25EB%2593%25A4-UXLfx6Sigas
+                - figure [ref=f69e276]:
+                  - link [ref=f69e279]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90%EC%84%9C-%EA%B0%95%EC%95%84%EC%A7%80%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD%EC%9D%B4-%EB%82%98%EC%98%A8%EB%8B%A4-kyK7vVqRQe0
+                    - img "눈 속에서 강아지의 발자국이 나온다" [ref=f69e280]
+                - figure [ref=f69e281]:
+                  - link [ref=f69e284]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A0%96%EC%9D%80-%EB%AA%A8%EB%9E%98-%EC%9C%84%EC%97%90%EB%8A%94-%EC%88%98%EB%A7%8E%EC%9D%80-%EB%B0%9C%EC%9E%90%EA%B5%AD%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4-tFL2xfIViiM
+                    - img "젖은 모래 위에는 수많은 발자국이 보입니다" [ref=f69e285]
+                - figure [ref=f69e286]:
+                  - link [ref=f69e289]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90-%EB%B0%9C%EC%9E%90%EA%B5%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%88%88-%EB%8D%AE%EC%9D%B8-%EB%93%A4%ED%8C%90-OwjiJeuP_NM
+                    - img "눈 속에 발자국이 있는 눈 덮인 들판" [ref=f69e290]
+                - figure [ref=f69e291]:
+                  - generic [ref=f69e293]:
+                    - link [ref=f69e294]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%98-%EB%B0%9C%EC%9E%90%EA%B5%AD-Mj_Dd0yvR4k
+                      - img "눈 속에 사람의 발자국" [ref=f69e295]
+                    - link [ref=f69e296] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EC%2582%25AC%25EB%259E%258C%25EC%259D%2598-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD-Mj_Dd0yvR4k
+    - generic:
+      - region "Notifications"

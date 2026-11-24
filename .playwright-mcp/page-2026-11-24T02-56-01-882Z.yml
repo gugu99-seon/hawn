@@ -1,0 +1,85 @@
+- generic [ref=f51e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f51e13]:
+      - generic [ref=f51e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f51e18]
+        - generic "이미지 업로드" [ref=f51e22]:
+          - button "Pinterest 렌즈" [ref=f51e23] [cursor=pointer]
+      - link "내 프로필" [ref=f51e32] [cursor=pointer]:
+        - /url: /gsantos2969/
+        - img [ref=f51e39]:
+          - generic [ref=f51e40]: S
+      - button "계정" [ref=f51e44] [cursor=pointer]
+  - navigation [ref=f51e49]:
+    - generic [ref=f51e51]:
+      - generic [ref=f51e52]:
+        - generic "홈" [ref=f51e56]:
+          - link "홈" [ref=f51e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f51e64]:
+          - link "홈" [ref=f51e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f51e72]:
+          - link "내 보드" [ref=f51e73] [cursor=pointer]:
+            - /url: /gsantos2969/
+        - generic "만들기" [ref=f51e80]:
+          - button "만들기" [ref=f51e81] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f51e97]:
+        - button "설정 및 지원" [ref=f51e98] [cursor=pointer]
+  - main [ref=f51e103]:
+    - generic [ref=f51e113]:
+      - button "뒤로" [ref=f51e115] [cursor=pointer]
+      - generic [ref=f51e125]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f51e126]:
+                - group "Closeup content container" [ref=f51e132]:
+                  - generic [ref=f51e137]:
+                    - region "핀 이미지 및 탐색할 항목" [ref=f51e140]:
+                      - button [disabled] [ref=f51e147]:
+                        - img "스토리 핀 이미지" [ref=f51e155]
+                    - generic [ref=f51e156]:
+                      - generic [ref=f51e159]:
+                        - list [ref=f51e160]:
+                          - generic [ref=f51e161]:
+                            - listitem [ref=f51e163]:
+                              - generic "반응" [ref=f51e166]:
+                                - button "반응" [ref=f51e167] [cursor=pointer]
+                              - generic [ref=f51e172]: "11"
+                            - listitem [ref=f51e174]:
+                              - generic "댓글" [ref=f51e177]:
+                                - button "댓글" [ref=f51e178] [cursor=pointer]
+                            - listitem [ref=f51e184]:
+                              - generic "공유" [ref=f51e188]:
+                                - button "이 핀 공유" [ref=f51e190] [cursor=pointer]
+                            - listitem [ref=f51e196]:
+                              - generic "추가 작업" [ref=f51e201]:
+                                - button "추가 작업" [ref=f51e203] [cursor=pointer]
+                        - generic [ref=f51e213]:
+                          - 'button "저장할 보드 선택: ..." [ref=f51e216] [cursor=pointer]':
+                            - generic "..." [ref=f51e219]
+                          - button "저장" [ref=f51e225] [cursor=pointer]
+                      - generic [ref=f51e233]:
+                        - generic [ref=f51e242]:
+                          - link [ref=f51e244] [cursor=pointer]:
+                            - /url: /lighthousestudiofr/
+                            - img "Lighthouse Studio I Graphisme et identités visuelles 아바타 링크" [ref=f51e251]
+                          - link [ref=f51e255] [cursor=pointer]:
+                            - /url: /lighthousestudiofr/
+                            - heading "Lighthouse Studio I Graphisme et identités visuelles" [level=2] [ref=f51e256]
+                        - generic [ref=f51e259]:
+                          - generic [ref=f51e261]:
+                            - link [ref=f51e267] [cursor=pointer]:
+                              - /url: https://www.instagram.com/p/C6EmrsJiOyt/?utm_source=Pinterest&utm_medium=organic
+                              - heading "Création de l'identité visuelle de Pupify" [level=1] [ref=f51e268]
+                            - link "사이트 방문, instagram.com" [ref=f51e276] [cursor=pointer]:
+                              - /url: https://www.instagram.com/p/C6EmrsJiOyt/?utm_source=Pinterest&utm_medium=organic
+                              - generic [ref=f51e277]: 사이트 방문
+                          - generic [ref=f51e280]:
+                            - heading "설명" [level=4] [ref=f51e281]
+                            - generic [ref=f51e282]: "Découvre l’identité visuelle que j’ai créé pour Emily ! Emily a eu l’idée de créer Pupify lorsqu’elle s’est efforcée de trouver des produits de haute qualité qui répondaient aux besoins de son chiot. Pupify est né d’un désir simple : offrir à tous les propriétaires de chiens un moyen simple de choyer leurs compagnons à fourrure. Pupify est une box mensuelle qui offre aux chiens tout ce dont ils ont besoin, des friandises aux vêtements en passant par les jouets. Vous souhaitez créer une identité visuelle qui vous ressemble ? N'hésitez pas à me contacter par message privé ou via mon site internet."

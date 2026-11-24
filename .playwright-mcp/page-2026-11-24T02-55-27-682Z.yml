@@ -1,0 +1,128 @@
+- generic [ref=f17e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f17e13]:
+      - generic [ref=f17e15]:
+        - generic [ref=f17e16]:
+          - combobox "검색" [ref=f17e18]: dog paw print pattern graphic
+          - generic [ref=f17e19]:
+            - button "검색 입력 삭제" [ref=f17e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f17e30]:
+              - button "Pinterest 렌즈" [ref=f17e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f17e38] [cursor=pointer]:
+          - generic [ref=f17e40]:
+            - generic [ref=f17e41]: 모든 핀
+            - img "드롭다운" [ref=f17e43]
+      - link "내 프로필" [ref=f17e49] [cursor=pointer]:
+        - /url: /gsantos2969/
+        - img [ref=f17e56]:
+          - generic [ref=f17e57]: S
+      - button "계정" [ref=f17e61] [cursor=pointer]
+  - navigation [ref=f17e66]:
+    - generic [ref=f17e68]:
+      - generic [ref=f17e69]:
+        - generic "홈" [ref=f17e73]:
+          - link "홈" [ref=f17e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f17e81]:
+          - link "홈" [ref=f17e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f17e89]:
+          - link "내 보드" [ref=f17e90] [cursor=pointer]:
+            - /url: /gsantos2969/
+        - generic "만들기" [ref=f17e97]:
+          - button "만들기" [ref=f17e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f17e114]:
+        - button "설정 및 지원" [ref=f17e115] [cursor=pointer]
+  - main [ref=f17e120]:
+    - generic [ref=f17e123]:
+      - heading "검색 결과 페이지" [level=1] [ref=f17e125]
+      - region "필터 및 세분화 검색" [ref=f17e129]:
+        - generic [ref=f17e132]:
+          - button "필터 표시" [ref=f17e138] [cursor=pointer]
+          - button "Crochet" [ref=f17e149] [cursor=pointer]
+          - button "Cross stitch" [ref=f17e165] [cursor=pointer]
+          - button "Stained glass" [ref=f17e181] [cursor=pointer]
+          - button "Embroidery" [ref=f17e197] [cursor=pointer]
+          - button "Quilt" [ref=f17e213] [cursor=pointer]
+          - button "Keychain" [ref=f17e229] [cursor=pointer]
+          - button "Plastic canvas" [ref=f17e245] [cursor=pointer]
+          - button "Granny square" [ref=f17e261] [cursor=pointer]
+          - button "Free crochet" [ref=f17e277] [cursor=pointer]
+      - generic [ref=f17e294]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f17e295]:
+                - group "핀 카드" [ref=f17e299]:
+                  - generic [ref=f17e301]:
+                    - link "제목 없음 핀 페이지" [ref=f17e303] [cursor=pointer]:
+                      - /url: /pin/741968107367343071/
+                      - img "포함된 이미지:" [ref=f17e313]
+                    - generic "추가 작업" [ref=f17e322]:
+                      - button "추가 작업" [ref=f17e323] [cursor=pointer]
+              - listitem [ref=f17e328]:
+                - group "핀 카드" [ref=f17e332]:
+                  - generic [ref=f17e334]:
+                    - link "Download premium image of Cat paws pattern backgrounds paper. by Miiruuku about dog wallpaper, abstract mobile wallpapers, paw print background, iphone wallpaper dog, and paw prints 13598110 핀 페이지" [ref=f17e336] [cursor=pointer]:
+                      - /url: /pin/583638432997995325/
+                      - 'img "포함된 이미지: Download premium image of Cat paws pattern backgrounds paper. by Miiruuku about dog wallpaper, abstract mobile wallpapers, paw print background, iphone wallpaper dog, and paw prints 13598110" [ref=f17e346]'
+                    - generic [ref=f17e351]:
+                      - heading [level=2] [ref=f17e357]:
+                        - link "Download premium image of Cat paws pattern backgrounds paper. by Miiruuku about dog wallpaper, abstract mobile wallpapers, paw print background, iphone wallpaper dog, and paw prints 13598110" [ref=f17e359] [cursor=pointer]:
+                          - /url: /pin/583638432997995325/
+                      - generic "추가 작업" [ref=f17e362]:
+                        - button "추가 작업" [ref=f17e363] [cursor=pointer]
+              - listitem [ref=f17e368]:
+                - group "핀 카드" [ref=f17e372]:
+                  - generic [ref=f17e374]:
+                    - link "Création de l'identité visuelle de Pupify 핀 페이지" [ref=f17e376] [cursor=pointer]:
+                      - /url: /pin/1103241239984839035/
+                      - 'img "포함된 이미지: Création de l''identité visuelle de Pupify" [ref=f17e386]'
+                    - generic [ref=f17e391]:
+                      - heading [level=2] [ref=f17e397]:
+                        - link "Création de l'identité visuelle de Pupify" [ref=f17e399] [cursor=pointer]:
+                          - /url: /pin/1103241239984839035/
+                      - generic "추가 작업" [ref=f17e402]:
+                        - button "추가 작업" [ref=f17e403] [cursor=pointer]
+              - listitem [ref=f17e408]:
+                - group "핀 카드" [ref=f17e412]:
+                  - generic [ref=f17e414]:
+                    - link "Puppy Dog Paw Print Stencil Templates for Nursery... 핀 페이지" [ref=f17e416] [cursor=pointer]:
+                      - /url: /pin/4609012138817458496/
+                      - 'img "포함된 이미지: Puppy Dog Paw Print Stencil Templates for Nursery..." [ref=f17e426]'
+                    - generic [ref=f17e431]:
+                      - heading [level=2] [ref=f17e437]:
+                        - link "Puppy Dog Paw Print Stencil Templates for Nursery Walls & Baby Crafts" [ref=f17e439] [cursor=pointer]:
+                          - /url: /pin/4609012138817458496/
+                      - generic "추가 작업" [ref=f17e442]:
+                        - button "추가 작업" [ref=f17e443] [cursor=pointer]
+              - listitem [ref=f17e448]:
+                - group "핀 카드" [ref=f17e452]:
+                  - generic [ref=f17e454]:
+                    - link "제목 없음 핀 페이지" [ref=f17e456] [cursor=pointer]:
+                      - /url: /pin/678776975094270273/
+                      - img "포함된 이미지:" [ref=f17e466]
+                    - generic "추가 작업" [ref=f17e475]:
+                      - button "추가 작업" [ref=f17e476] [cursor=pointer]
+              - listitem [ref=f17e481]:
+                - group "핀 카드" [ref=f17e485]:
+                  - generic [ref=f17e487]:
+                    - link "제목 없음 핀 페이지" [ref=f17e489] [cursor=pointer]:
+                      - /url: /pin/1114218764086005001/
+                      - img "포함된 이미지:" [ref=f17e499]
+                    - generic "추가 작업" [ref=f17e508]:
+                      - button "추가 작업" [ref=f17e509] [cursor=pointer]
+              - listitem [ref=f17e514]:
+                - group "핀 카드" [ref=f17e518]:
+                  - generic [ref=f17e520]:
+                    - link "Download premium png of Animal png pattern seamless background, cute paw print sticker by Pinn about paw, paw print, animal paw print, paw print pattern, and paw pattern 3886603 핀 페이지" [ref=f17e522] [cursor=pointer]:
+                      - /url: /pin/1112600282914619363/
+                      - 'img "포함된 이미지: Download premium png of Animal png pattern seamless background, cute paw print sticker by Pinn about paw, paw print, animal paw print, paw print pattern, and paw pattern 3886603" [ref=f17e532]'
+                    - generic [ref=f17e537]:
+                      - heading [level=2] [ref=f17e543]:
+                        - link "Download premium png of Animal png pattern seamless background, cute paw print sticker by Pinn about paw, paw print, animal paw print, paw print pattern, and paw pattern 3886603" [ref=f17e545] [cursor=pointer]:
+                          - /url: /pin/1112600282914619363/
+                      - generic "추가 작업" [ref=f17e548]:
+                        - button "추가 작업" [ref=f17e549] [cursor=pointer]

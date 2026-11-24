@@ -1,0 +1,3 @@
+[    2758ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 7.5, rating: good, delta: 7.5} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[    2758ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[    2758ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5

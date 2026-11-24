@@ -1,0 +1,106 @@
+[   48524ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-SXrSQ3th5TJCaBtn_HqINA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=%EC%96%B8%EC%8A%A4%ED%94%8C%EB%9E%98%EC%89%AC&oq=%EC%96%B8%EC%8A%A4%ED%94%8C%EB%9E%98%EC%89%AC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGA0YHjIICAgQABgNGB4yCAgJEAAYDRge0gEIMzAxOWowajKoAgCwAgE&sourceid=chrome&ie=UTF-8:1
+[   52897ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 322.5, rating: good, delta: 322.5} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   52898ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   52898ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  123151ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 1324, rating: good, delta: 1324} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  123152ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  123152ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  678905ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EC%A4%91%E3%85%85:1
+[ 2764859ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 855.5, rating: needs-improvement, delta: 855.5} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2764859ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2764860ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3689783ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 1484, rating: good, delta: 1484} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3689787ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3689787ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3692928ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%84%B8:1
+[ 3693394ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EB%9D%A0:1
+[ 3693656ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EB%9D%A0%E3%84%B8:1
+[ 3696950ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EB%94%B0%EB%9C%BB%ED%95%A8:1
+[ 3769637ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B7%9C:1
+[ 3771105ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 999.4000000003725, rating: needs-improvement, delta: 999.4000000003725} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3771106ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3771106ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 3798818ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%84%B2:1
+[ 3799465ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B9%8C:1
+[ 3799665ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B9%94:1
+[ 3811821ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EA%B9%94%EB%81%94:1
+[ 3815816ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%84%B1:1
+[ 4046535ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%85%A3:1
+[ 4046773ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%85%A3%E3%85%91:1
+[ 4047908ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/ligh:1
+[ 4048421ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/lighy:1
+[ 4049803ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/light:1
+[ 4100783ms] [ERROR] Request timed out @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4101757ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 1195.9000000003725, rating: needs-improvement, delta: 1195.9000000003725} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4101757ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4101757ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4194701ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 1716, rating: good, delta: 1716} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4194702ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4194702ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4196006ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/q:1
+[ 4196420ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/qd:1
+[ 4197822ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%EB%B0%94%EC%9A%B4%EC%8A%A4:1
+[ 4826936ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/%E3%85%A0:1
+[ 4828235ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://unsplash.com/nautocomplete/ball:1
+[ 4829325ms] [WARNING] TBT=8tvi48=32983 @ https://cdn.taboola.com/libtrc/unsplash-channel/loader.js:33
+[ 4843605ms] [ERROR] TypeError: Failed to fetch
+    at i (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5:7735)
+    at u (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5:7790)
+    at Q.fetch.fetch (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:150147)
+    at y (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:42:180606)
+    at async queryFn (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:435190)
+    at async h (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:7:9791)
+    at async Object.d [as fn] (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:7:10088) @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4843609ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4843609ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4843699ms] [ERROR] ReactComponentErrorWithStack: Loading chunk 8r failed.
+(error: https://unsplash.com/a/ko-KR/async/featured-photos-feed-route.04106ab9e2.js)
+    at Lazy (<anonymous>)
+    at Suspense (<anonymous>)
+    at Component (<anonymous>)
+    at tz (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:3:23526)
+    at t2 (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:5:3511)
+    at sL (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:60131)
+    at sC (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:59921)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at sT (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:58740)
+    at div (<anonymous>)
+    at sR (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:62506)
+    at div (<anonymous>)
+    at https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:82699
+    at op (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:89995)
+    at om (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:89782)
+    at o8 (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:93954)
+    at g (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:223195)
+    at o9 (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:94159)
+    at tz (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:3:23526)
+    at tj (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:3:21418)
+    at https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:3:29346
+    at t3 (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:5:3632)
+    at t0 (https://unsplash.com/a/ko-KR/lib-router.f4940d9418.js:3:25705)
+    at c (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:462804)
+    at cW (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:98022)
+    at x (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:2:269449)
+    at c (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:2:158192)
+    at B (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:2:283213)
+    at eq (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:585)
+    at H (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:393133)
+    at eE (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:429)
+    at u (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:7:43047)
+    at p (https://unsplash.com/a/ko-KR/d7.d81771d88b.js:42:185499)
+    at body (<anonymous>)
+    at h (https://unsplash.com/a/ko-KR/a5.be4ac11aa4.js:1:21138)
+    at html (<anonymous>)
+    at eY (https://unsplash.com/a/ko-KR/main.bbb0036b2f.js:42:854) @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4843700ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4843700ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4846151ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 208.60000000149012, rating: good, delta: 208.60000000149012} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4846152ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4846152ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4851231ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 704, rating: good, delta: 704} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4851232ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4851232ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 4963541ms] [WARNING] [GPT] Slot _r_59j_ rendered inside of the viewport.
+https://goo.gle/gpt-message#169 @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5

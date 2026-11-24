@@ -1,0 +1,316 @@
+- generic [ref=f57e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f57e13]:
+      - generic [ref=f57e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f57e18]
+        - generic "이미지 업로드" [ref=f57e22]:
+          - button "Pinterest 렌즈" [ref=f57e23] [cursor=pointer]
+      - link "내 프로필" [ref=f57e32] [cursor=pointer]:
+        - /url: /gsantos2969/
+        - img [ref=f57e39]:
+          - generic [ref=f57e40]: S
+      - button "계정" [ref=f57e44] [cursor=pointer]
+  - navigation [ref=f57e49]:
+    - generic [ref=f57e51]:
+      - generic [ref=f57e52]:
+        - generic "홈" [ref=f57e56]:
+          - link "홈" [ref=f57e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f57e64]:
+          - link "홈" [ref=f57e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f57e72]:
+          - link "내 보드" [ref=f57e73] [cursor=pointer]:
+            - /url: /gsantos2969/
+        - generic "만들기" [ref=f57e80]:
+          - button "만들기" [ref=f57e81] [cursor=pointer]
+        - generic "업데이트" [ref=f57e90]:
+          - 'button "업데이트: 85개 알림" [ref=f57e91] [cursor=pointer]'
+        - generic "메시지" [ref=f57e100]:
+          - button "메시지" [ref=f57e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f57e110]:
+        - button "설정 및 지원" [ref=f57e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f57e116]:
+    - generic [ref=f57e126]:
+      - button "뒤로" [ref=f57e128] [cursor=pointer]
+      - generic [ref=f57e137]:
+        - generic [ref=f57e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f57e143]:
+          - listitem [ref=f57e144]:
+            - group "Closeup content container" [ref=f57e151]:
+              - generic [ref=f57e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f57e159]:
+                  - region "핀 이미지" [ref=f57e164]:
+                    - generic [ref=f57e170]:
+                      - button "더 크게 보기" [ref=f57e173] [cursor=pointer]:
+                        - generic [ref=f57e175]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f57e177]
+                      - button "이미지 검색" [ref=f57e182] [cursor=pointer]:
+                        - generic [ref=f57e184]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f57e186]
+                      - link "사이트 방문, creativemarket.com" [ref=f57e191] [cursor=pointer]:
+                        - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                        - generic [ref=f57e195]: 사이트 방문
+                - generic [ref=f57e196]:
+                  - generic [ref=f57e199]:
+                    - list [ref=f57e200]:
+                      - generic [ref=f57e201]:
+                        - listitem [ref=f57e203]:
+                          - generic "반응" [ref=f57e206]:
+                            - button "반응" [ref=f57e207] [cursor=pointer]
+                          - generic [ref=f57e212]: "0"
+                        - listitem [ref=f57e214]:
+                          - generic "댓글" [ref=f57e217]:
+                            - button "댓글" [ref=f57e218] [cursor=pointer]
+                        - listitem [ref=f57e224]:
+                          - generic "공유" [ref=f57e228]:
+                            - button "이 핀 공유" [ref=f57e230] [cursor=pointer]
+                        - listitem [ref=f57e236]:
+                          - generic "추가 작업" [ref=f57e241]:
+                            - button "추가 작업" [ref=f57e243] [cursor=pointer]
+                    - generic [ref=f57e253]:
+                      - 'button "저장할 보드 선택: 대시보드 디자인" [ref=f57e256] [cursor=pointer]':
+                        - generic "대시보드 디자인" [ref=f57e259]
+                      - button "저장" [ref=f57e265] [cursor=pointer]
+                  - generic [ref=f57e273]:
+                    - generic [ref=f57e282]:
+                      - link [ref=f57e284] [cursor=pointer]:
+                        - /url: /rosianadesign/
+                        - img "Rosiana Design 아바타 링크" [ref=f57e291]
+                      - link [ref=f57e295] [cursor=pointer]:
+                        - /url: /rosianadesign/
+                        - heading "Rosiana Design" [level=2] [ref=f57e296]
+                    - generic [ref=f57e299]:
+                      - generic [ref=f57e301]:
+                        - link [ref=f57e307] [cursor=pointer]:
+                          - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                          - heading "Minimalist Line Art Dog Logo" [level=1] [ref=f57e308]
+                        - link "사이트 방문, creativemarket.com" [ref=f57e316] [cursor=pointer]:
+                          - /url: https://creativemarket.com/RosianaDesign/91889399-Minimalist-Line-Art-Dog-Logo?utm_source=Pinterest&utm_medium=organic
+                          - generic [ref=f57e317]: 사이트 방문
+                      - generic [ref=f57e320]:
+                        - heading "설명" [level=4] [ref=f57e321]
+                        - generic [ref=f57e323]:
+                          - generic [ref=f57e324]: Minimalist Line Art Dog Logo
+                          - generic [ref=f57e326]: "Perfect for:"
+                          - generic [ref=f57e328]:
+                            - generic [ref=f57e329]:
+                              - generic [ref=f57e330]: ·
+                              - generic [ref=f57e331]: Modern Pet Care Services
+                            - generic [ref=f57e333]:
+                              - generic [ref=f57e334]: ·
+                              - generic [ref=f57e335]: Minimalist Dog Grooming Businesses
+                            - generic [ref=f57e337]:
+                              - generic [ref=f57e338]: ·
+                              - generic [ref=f57e339]: Sleek and Contemporary Pet Brands
+                            - generic [ref=f57e341]:
+                              - generic [ref=f57e342]: ·
+                              - generic [ref=f57e343]: Timeless and Elegant Pet Branding
+                          - generic [ref=f57e345]: "Style Attributes:"
+                          - generic [ref=f57e347]:
+                            - generic [ref=f57e348]:
+                              - generic [ref=f57e349]: ·
+                              - generic [ref=f57e350]: Minimalist
+                            - generic [ref=f57e352]:
+                              - generic [ref=f57e353]: ·
+                              - generic [ref=f57e354]: Modern
+                            - generic [ref=f57e356]:
+                              - generic [ref=f57e357]: ·
+                              - generic [ref=f57e358]: Simple
+                          - generic [ref=f57e360]: "You'll receive:"
+                          - generic [ref=f57e362]:
+                            - generic [ref=f57e363]:
+                              - generic [ref=f57e364]: ·
+                              - generic [ref=f57e365]: Clean and Simplified Line Art Dog Design
+                            - generic [ref=f57e367]:
+                              - generic [ref=f57e368]: ·
+                              - generic [ref=f57e369]: 100% Resizable Vector Logo
+                            - generic [ref=f57e371]:
+                              - generic [ref=f57e372]: ·
+                              - generic [ref=f57e373]: AI, PSD & SVG Files for Easy Customization
+                          - generic [ref=f57e375]: For adjustments or additional formats, contact us. Redefine your pet brand with our Minimalist Line Art Dog Logo.
+                        - button "더 보기" [ref=f57e378] [cursor=pointer]
+                  - generic [ref=f57e388]:
+                    - generic [ref=f57e390]:
+                      - button [ref=f57e392]
+                      - generic [ref=f57e396]:
+                        - generic: 의견을 공유하려면 댓글을 추가하세요.
+                        - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f57e398]
+                    - generic [ref=f57e407]:
+                      - button "이모티콘 선택" [ref=f57e408] [cursor=pointer]
+                      - button "스티커 선택" [ref=f57e413] [cursor=pointer]
+                      - button "사진을 선택합니다." [ref=f57e419] [cursor=pointer]
+          - listitem [ref=f57e424]:
+            - group "핀 카드" [ref=f57e429]:
+              - generic [ref=f57e431]:
+                - link "creativemarket.com" [ref=f57e435] [cursor=pointer]:
+                  - /url: https://creativemarket.com/tanmay.goswami/6133302-Veterinary-Clinic-Logo?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                  - 'img "포함된 이미지: Veterinary Clinic Logo by" [ref=f57e446]'
+                - generic [ref=f57e450]:
+                  - generic [ref=f57e451]:
+                    - heading [level=2] [ref=f57e456]:
+                      - link "Veterinary Clinic Logo by Tanmaygoswami | Creative Market" [ref=f57e460] [cursor=pointer]:
+                        - /url: https://creativemarket.com/tanmay.goswami/6133302-Veterinary-Clinic-Logo?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                    - link "Creative Market 후원 핀" [ref=f57e464] [cursor=pointer]:
+                      - /url: /creativemarket/
+                      - generic [ref=f57e466]:
+                        - generic [ref=f57e467]: Creative Market
+                        - generic [ref=f57e468]: 후원 핀
+                  - generic "추가 작업" [ref=f57e476]:
+                    - button "추가 작업" [ref=f57e477] [cursor=pointer]
+          - listitem [ref=f57e482]:
+            - group "핀 카드" [ref=f57e487]:
+              - generic [ref=f57e489]:
+                - link "creativemarket.com" [ref=f57e493] [cursor=pointer]:
+                  - /url: https://creativemarket.com/gagavastard/5092776-dog-cat-pet-hipster-vintage-logo?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                  - 'img "포함된 이미지: Dog Cat Pet Hipster" [ref=f57e504]'
+                - generic [ref=f57e508]:
+                  - generic [ref=f57e509]:
+                    - heading [level=2] [ref=f57e514]:
+                      - link "Dog Cat Pet Hipster Vintage Logo by Vastard Studio | Creative Market" [ref=f57e518] [cursor=pointer]:
+                        - /url: https://creativemarket.com/gagavastard/5092776-dog-cat-pet-hipster-vintage-logo?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                    - link "Creative Market 후원 핀" [ref=f57e522] [cursor=pointer]:
+                      - /url: /creativemarket/
+                      - generic [ref=f57e524]:
+                        - generic [ref=f57e525]: Creative Market
+                        - generic [ref=f57e526]: 후원 핀
+                  - generic "추가 작업" [ref=f57e534]:
+                    - button "추가 작업" [ref=f57e535] [cursor=pointer]
+          - listitem [ref=f57e540]:
+            - group "핀 카드" [ref=f57e545]:
+              - generic [ref=f57e547]:
+                - generic [ref=f57e548]:
+                  - link "samsung.com" [ref=f57e551] [cursor=pointer]:
+                    - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v4-30s_amf1854-conkw&utm_campaign=626760008832&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513519
+                    - 'img "포함된 이미지: 갤럭시 탭 S12" [ref=f57e562]'
+                  - generic: 0:30
+                - generic [ref=f57e566]:
+                  - generic [ref=f57e567]:
+                    - heading [level=2] [ref=f57e572]:
+                      - link "갤럭시 탭 S12" [ref=f57e576] [cursor=pointer]:
+                        - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v4-30s_amf1854-conkw&utm_campaign=626760008832&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513519
+                    - link "삼성전자 Samsung Korea 후원 핀" [ref=f57e580] [cursor=pointer]:
+                      - /url: /adlbh0143/
+                      - generic [ref=f57e582]:
+                        - generic [ref=f57e583]: 삼성전자 Samsung Korea
+                        - generic [ref=f57e584]: 후원 핀
+                  - generic "추가 작업" [ref=f57e592]:
+                    - button "추가 작업" [ref=f57e593] [cursor=pointer]
+          - listitem [ref=f57e598]:
+            - group "핀 카드" [ref=f57e603]:
+              - generic [ref=f57e605]:
+                - link "제목 없음 핀 페이지" [ref=f57e607] [cursor=pointer]:
+                  - /url: /pin/922112092469537019/
+                  - img "포함된 이미지:" [ref=f57e617]
+                - generic "추가 작업" [ref=f57e626]:
+                  - button "추가 작업" [ref=f57e627] [cursor=pointer]
+          - listitem [ref=f57e632]:
+            - group "핀 카드" [ref=f57e637]:
+              - generic [ref=f57e639]:
+                - link "제목 없음 핀 페이지" [ref=f57e641] [cursor=pointer]:
+                  - /url: /pin/797629784044050811/
+                  - img "포함된 이미지:" [ref=f57e651]
+                - generic "추가 작업" [ref=f57e660]:
+                  - button "추가 작업" [ref=f57e661] [cursor=pointer]
+          - listitem [ref=f57e666]:
+            - group "핀 카드" [ref=f57e671]:
+              - generic [ref=f57e673]:
+                - link "temu.com" [ref=f57e677] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601100474363559&adg_ctx=a-07b1cc90~c-9d8def92&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610213248&_x_ads_id=2680092810781&_x_ads_set=626760184331&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610213248&_x_ns_gid=601100474363559&_x_ns_product_id=17596117925184&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1558323660&_x_ads_account=549767591651&_x_ns_placement=r&utm_campaign=626760184331&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092810781&pp=0
+                  - 'img "포함된 이미지: Temu | 1개 귀여운 강아지 미니멀 라인" [ref=f57e688]'
+                - generic [ref=f57e692]:
+                  - generic [ref=f57e693]:
+                    - heading [level=2] [ref=f57e698]:
+                      - link "Temu | 1개 귀여운 강아지 미니멀 라인 드로잉 포스터 - 액자 없는 캔버스 강아지 벽 장식, 방에 적합 - 모던 강아지 라인 아트" [ref=f57e702] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601100474363559&adg_ctx=a-07b1cc90~c-9d8def92&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610213248&_x_ads_id=2680092810781&_x_ads_set=626760184331&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610213248&_x_ns_gid=601100474363559&_x_ns_product_id=17596117925184&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1558323660&_x_ads_account=549767591651&_x_ns_placement=r&utm_campaign=626760184331&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092810781&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f57e706] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f57e708]:
+                        - generic [ref=f57e709]: Temu_Korea
+                        - generic [ref=f57e710]: 후원 핀
+                  - generic "추가 작업" [ref=f57e718]:
+                    - button "추가 작업" [ref=f57e719] [cursor=pointer]
+          - listitem [ref=f57e724]:
+            - group "핀 카드" [ref=f57e729]:
+              - generic [ref=f57e731]:
+                - link "creativemarket.com" [ref=f57e735] [cursor=pointer]:
+                  - /url: https://creativemarket.com/onyxprj/4074440-Vet-clinic-logo-Pets-shop-cats-dogs?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                  - 'img "포함된 이미지: Vet Clinic Logo Pets Shop" [ref=f57e746]'
+                - generic [ref=f57e750]:
+                  - generic [ref=f57e751]:
+                    - heading [level=2] [ref=f57e756]:
+                      - link "Vet Clinic Logo Pets Shop Cats Dogs by Onyx | Creative Market" [ref=f57e760] [cursor=pointer]:
+                        - /url: https://creativemarket.com/onyxprj/4074440-Vet-clinic-logo-Pets-shop-cats-dogs?utm_term=All+Products+-+Prospecting&utm_campaign=626755576490&cvg_adid=4260609295886&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609295886&cvg_cid=626755576490&pp=0
+                    - link "Creative Market 후원 핀" [ref=f57e764] [cursor=pointer]:
+                      - /url: /creativemarket/
+                      - generic [ref=f57e766]:
+                        - generic [ref=f57e767]: Creative Market
+                        - generic [ref=f57e768]: 후원 핀
+                  - generic "추가 작업" [ref=f57e776]:
+                    - button "추가 작업" [ref=f57e777] [cursor=pointer]
+          - listitem [ref=f57e782]:
+            - group "핀 카드" [ref=f57e787]:
+              - generic [ref=f57e789]:
+                - link "creativemarket.com" [ref=f57e793] [cursor=pointer]:
+                  - /url: https://creativemarket.com/irenedemetri/291190228-Branding-Kit---Pet-Business?utm_term=Featured+Shop+Products&utm_campaign=626757580717&cvg_adid=4260609630146&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609630146&cvg_cid=626757580717&pp=0
+                  - 'img "포함된 이미지: Branding Kit - Pet" [ref=f57e804]'
+                - generic [ref=f57e808]:
+                  - generic [ref=f57e809]:
+                    - heading [level=2] [ref=f57e814]:
+                      - link "Branding Kit - Pet Business by Youandigraphics | Creative Market" [ref=f57e818] [cursor=pointer]:
+                        - /url: https://creativemarket.com/irenedemetri/291190228-Branding-Kit---Pet-Business?utm_term=Featured+Shop+Products&utm_campaign=626757580717&cvg_adid=4260609630146&utm_medium=cpc&cvg_source=pinterest&utm_source=pinterest&utm_content=4260609630146&cvg_cid=626757580717&pp=0
+                    - link "Creative Market 후원 핀" [ref=f57e822] [cursor=pointer]:
+                      - /url: /creativemarket/
+                      - generic [ref=f57e824]:
+                        - generic [ref=f57e825]: Creative Market
+                        - generic [ref=f57e826]: 후원 핀
+                  - generic "추가 작업" [ref=f57e834]:
+                    - button "추가 작업" [ref=f57e835] [cursor=pointer]
+          - listitem [ref=f57e840]:
+            - group "핀 카드" [ref=f57e845]:
+              - generic [ref=f57e847]:
+                - link "제목 없음 핀 페이지" [ref=f57e849] [cursor=pointer]:
+                  - /url: /pin/1133218325003872508/
+                  - img "포함된 이미지:" [ref=f57e859]
+                - generic "추가 작업" [ref=f57e868]:
+                  - button "추가 작업" [ref=f57e869] [cursor=pointer]
+          - listitem [ref=f57e874]:
+            - group "핀 카드" [ref=f57e879]:
+              - generic [ref=f57e881]:
+                - link "제목 없음 핀 페이지" [ref=f57e883] [cursor=pointer]:
+                  - /url: /pin/791366965791345114/
+                  - img "포함된 이미지:" [ref=f57e893]
+                - generic "추가 작업" [ref=f57e902]:
+                  - button "추가 작업" [ref=f57e903] [cursor=pointer]
+          - listitem [ref=f57e908]:
+            - group "핀 카드" [ref=f57e913]:
+              - generic [ref=f57e915]:
+                - link "제목 없음 핀 페이지" [ref=f57e917] [cursor=pointer]:
+                  - /url: /pin/1077204804639829762/
+                  - img "포함된 이미지:" [ref=f57e927]
+                - generic "추가 작업" [ref=f57e936]:
+                  - button "추가 작업" [ref=f57e937] [cursor=pointer]
+          - listitem [ref=f57e942]:
+            - group "핀 카드" [ref=f57e947]:
+              - generic [ref=f57e949]:
+                - link "제목 없음 핀 페이지" [ref=f57e951] [cursor=pointer]:
+                  - /url: /pin/155726099605087564/
+                  - img "포함된 이미지:" [ref=f57e961]
+                - generic "추가 작업" [ref=f57e970]:
+                  - button "추가 작업" [ref=f57e971] [cursor=pointer]
+          - listitem [ref=f57e976]
+          - listitem [ref=f57e980]
+          - listitem [ref=f57e984]
+          - listitem [ref=f57e988]
+          - listitem [ref=f57e992]
+          - listitem [ref=f57e996]
+  - generic:
+    - contentinfo "꼬리말"
